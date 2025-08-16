@@ -76,6 +76,6 @@ Student feedback data includes ratings on various aspects like subject clarity, 
 
 ---
 
-## ✨ Intern: [MANASA JAYARAJ]
+## ✨ Intern: [Akshara V V]
 Proudly submitted as part of **Data Science & Analytics Internship Task 3**.
 
